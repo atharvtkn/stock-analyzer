@@ -12,6 +12,9 @@ A Python GUI application to fetch, analyze, and visualize stock prices using **C
 
 ## Installation
 ```bash
+```bash
+git clone https://github.com/atharvtkn/stock-analyzer.git
+cd stock-analyzer
 pip install -r requirements.txt
 ```
 
@@ -21,4 +24,5 @@ python maingui.py
 ```
 ## App preview screenshot
 ![App Screenshot](preview.png)
+
 
