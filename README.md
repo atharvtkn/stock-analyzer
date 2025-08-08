@@ -13,7 +13,9 @@ A Python GUI application to fetch, analyze, and visualize stock prices using **C
 ## Installation
 ```bash
 pip install -r requirements.txt
+```
 
 ## Usage
-pip install -r requirements.txt
+```bash
+python maingui.py
 ```
