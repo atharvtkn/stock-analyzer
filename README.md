@@ -19,5 +19,6 @@ pip install -r requirements.txt
 ```bash
 python maingui.py
 ```
-## Screenshot
+## App preview screenshot
 ![App Screenshot](preview.png)
+
